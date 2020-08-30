@@ -10,3 +10,20 @@
   align-items: center;
   flex-direction: column;
 }
+.form-button {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.form-img {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.form-control{
+  text-align: center;
+}
