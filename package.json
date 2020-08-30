@@ -81,7 +81,7 @@
     "ip": "1.1.5",
     "jsonwebtoken": "^8.5.1",
     "lodash": "4.17.11",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "prop-types": "15.7.2",
     "qrcode.react": "^1.0.0",
     "quick-encrypt": "^1.0.8",
